@@ -47,18 +47,24 @@ nav {
     border-radius: 50px;
     color: white;
 }
-form{
-	    width: 500px;
+
+form {
+    width: 400px;
     margin: 0 auto;
 }
-input{
-	display: block;
+
+input {
+    display: block;
+    width: 100%;
     padding: 15px 0px;
     margin-top: 15px;
     border: none;
     border-bottom: 1px solid lightgrey;
 }
-form button{
+
+form button {
+    margin-top: 30px;
+    width: 100%;
     padding: 20px 40px;
     background: #A245EF;
     border: none;
